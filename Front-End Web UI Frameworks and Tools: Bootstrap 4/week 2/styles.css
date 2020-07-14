@@ -1,0 +1,42 @@
+body{
+padding:50px 0px 0px 0px;
+z-index:0;
+}
+address{
+font-size: 80%;
+margin: 0px;
+color: #0f0f0f;
+}
+.navbar-dark {
+background-color: #512DA8;
+}
+.header-color{
+background-color: #a057cd;
+}
+.header-font{
+color: #fff;
+}
+.footer-color{
+background-color: #d5bae9;
+}
+.form-link{
+background-color: #ffc700;
+color: #212529;
+text-align: center;
+border-radius: 5px;
+padding: 1em 1.5em;
+text-decoration: none;
+font-weight: bold;
+}
+.form-color{
+background-color: #ffc700;
+}
+/*            .form-deco{
+margin-left: 18%;
+}*/
+/*            .row-content{
+background-color: #8c8a89;
+height: 1px;
+float: left;
+width: 100px;
+}*/
